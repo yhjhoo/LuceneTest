@@ -1,0 +1,1229 @@
+Delivered-To: yhjhoo@gmail.com
+Received: by 10.157.42.102 with SMTP id t93csp644080ota;
+        Thu, 17 Mar 2016 20:35:37 -0700 (PDT)
+X-Received: by 10.37.100.196 with SMTP id y187mr749575ybb.80.1458272137664;
+        Thu, 17 Mar 2016 20:35:37 -0700 (PDT)
+Return-Path: <bounce-mc.us5_16558799.474569-yhjhoo=gmail.com@mail32.us4.mcsv.net>
+Received: from mail32.us4.mcsv.net (mail32.us4.mcsv.net. [205.201.128.32])
+        by mx.google.com with ESMTPS id o141si2805574ywo.351.2016.03.17.20.35.36
+        for <yhjhoo@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 17 Mar 2016 20:35:37 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us5_16558799.474569-yhjhoo=gmail.com@mail32.us4.mcsv.net designates 205.201.128.32 as permitted sender) client-ip=205.201.128.32;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us5_16558799.474569-yhjhoo=gmail.com@mail32.us4.mcsv.net designates 205.201.128.32 as permitted sender) smtp.mailfrom=bounce-mc.us5_16558799.474569-yhjhoo=gmail.com@mail32.us4.mcsv.net;
+       dkim=pass header.i=@mail32.us4.mcsv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail32.us4.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=sport_crm=3Dsport.gov.sg@mail32.us4.mcsv.net;
+ bh=xO/b/RjZFQ37IxyhoIENWOXCR08=;
+ b=l49RrZ9VHkw1btLeZehuEPjz3OzOS69+yhZgUB8a92P/nmAn+paq5LYKsCFlbir81ZBqFGAoivHl
+   PPw8oM9G5lY81T0Ja7ZJZYocXWp/bT1+DSsKycOI3TcGbOpko4YbRS7zqU3RiLEU2GxLpQ1YN2iC
+   wjg3rpxJj9EoA9WU1hg=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=xO/b/RjZFQ37IxyhoIENWOXCR08=;
+ b=Md+NFmFTSVlrRyhc0FgK52XdxZ/Zzz2dPWtY3cHJu0awDTLmdWr25rMu8tayh4TBxnag/UOZTuwv
+   lG+za7lBrid4GtBsWukHNu8w404cePnDkK2JTscFvnfQdcWG/S26T175LTeFshhKoYKw1cs4Om3R
+   gAwAlUrNmSgxJcaewTw=
+Received: from (127.0.0.1) by mail32.us4.mcsv.net id htdrog24b5ga for <yhjhoo@gmail.com>; Fri, 18 Mar 2016 03:34:27 +0000 (envelope-from <bounce-mc.us5_16558799.474569-yhjhoo=gmail.com@mail32.us4.mcsv.net>)
+Subject: =?utf-8?Q?The=20Play=20Times=20=2D=20March=20Issue=2025?=
+From: =?utf-8?Q?Sport=20Singapore?= <sport_crm@sport.gov.sg>
+Reply-To: =?utf-8?Q?Sport=20Singapore?= <sport_crm@sport.gov.sg>
+To: <yhjhoo@gmail.com>
+Date: Fri, 18 Mar 2016 03:34:27 +0000
+Message-ID: <f4632c88c9f244325f0fa91521951ef9e2f.20160318033338@mail32.us4.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID2f7cbc46b51951ef9e2f**
+X-Campaign: mailchimpf4632c88c9f244325f0fa9152.2f7cbc46b5
+X-campaignid: mailchimpf4632c88c9f244325f0fa9152.2f7cbc46b5
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=f4632c88c9f244325f0fa9152&id=2f7cbc46b5&e=1951ef9e2f
+X-MC-User: f4632c88c9f244325f0fa9152
+X-Feedback-ID: 16558799:16558799.474569:us5:mc
+List-ID: f4632c88c9f244325f0fa9152mc list <f4632c88c9f244325f0fa9152.116949.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-mc.us5_f4632c88c9f244325f0fa9152.2f7cbc46b5-1951ef9e2f@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://sportsingapore.us5.list-manage.com/unsubscribe?u=f4632c88c9f244325f0fa9152&id=22c75d53a9&e=1951ef9e2f&c=2f7cbc46b5>
+Sender: "Sport Singapore" <sport_crm=sport.gov.sg@mail32.us4.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_393122943"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_393122943
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://us5.forward-to-friend.com/forward?u=3Df4632c88c9f244325f0fa9152&id=
+=3D2f7cbc46b5&e=3D1951ef9e2f http://us5.campaign-archive2.com/?u=3Df4632c88c=
+9f244325f0fa9152&id=3D2f7cbc46b5&e=3D1951ef9e2f http://sportsingapore.us5.li=
+st-manage2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D0b922c330c&e=
+=3D1951ef9e2f http://sportsingapore.us5.list-manage.com/track/click?=
+u=3Df4632c88c9f244325f0fa9152&id=3D63d732bf8d&e=3D1951ef9e2f http://=
+sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f244325f0fa91=
+52&id=3D60bff63cf5&e=3D1951ef9e2f
+
+
+** The Play Times
+------------------------------------------------------------
+
+Mar 2016
+
+| ISSUE 25
+
+Dear Readers=2C
+
+Greetings from Sport Singapore!
+
+This month we have a special treat for families who love football and want=
+ their kids to pick up the sport.
+
+ActiveSG launches its Football Academy on 2 April=2C under the guidance of=
+ former Singapore football legend Aleksandar Duric as academy principal.
+
+Find out more and register your children to be part of this not to be miss=
+ed opportunity in football made fun for kids.
+
+If football ain't your thing=2C fret not as you can gear up for next month=
+'s Rugby World Cup by getting into the spirit of the game with Tag Rugby o=
+n 6=2C 13=2C 20=2C and 27 March with Sports Hub's 'Scrum it out with Tag R=
+ugby'!
+
+All this and more in our latest issue of The Play Times.
+
+As always=2C happy reading!
+
+------------------------------------------------------------
+
+
+** Feature of the Month
+------------------------------------------------------------
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3D23cd9a4377&e=3D1951ef9e2f
+
+
+** ACTIVESG FOOTBALL ACADEMY LAUNCH (http://sportsingapore.us5.list-manage=
+2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Daee3a797dd&e=3D=
+1951ef9e2f)
+------------------------------------------------------------
+
+Want to learn how to play football from local football legends? For just $=
+5=2C kids from the ages of 6-12 can participate in a football clinic condu=
+cted by our two former national captains Aleksandar Duric and Terry Pathma=
+nathan=2C and will also be able to bring home with them a free event T-shi=
+rt and football!
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3Dc2215872b4&e=3D1951ef9e2f
+ActiveSG Programmes (http://sportsingapore.us5.list-manage1.com/track/clic=
+k?u=3Df4632c88c9f244325f0fa9152&id=3Deba71be55d&e=3D1951ef9e2f)
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3Df669672309&e=3D1951ef9e2f
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3D528645947c&e=3D1951ef9e2f
+Latest in Sports (http://sportsingapore.us5.list-manage.com/track/click?u=
+=3Df4632c88c9f244325f0fa9152&id=3D48db97d736&e=3D1951ef9e2f)
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3D26ca386538&e=3D1951ef9e2f
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3D434329c706&e=3D1951ef9e2f
+
+http://sportsingapore.us5.list-manage2.com/track/click?u=3Df4632c88c9f2443=
+25f0fa9152&id=3D5b15e172fe&e=3D1951ef9e2f
+
+
+** Monthly Highlights
+------------------------------------------------------------
+Chief of ActiveSG Lai Chin Kwang
+
+
+** ActiveSG honoured by IOC (http://sportsingapore.us5.list-manage.com/tra=
+ck/click?u=3Df4632c88c9f244325f0fa9152&id=3D019f160bb5&e=3D=
+1951ef9e2f)
+------------------------------------------------------------
+
+ActiveSG was awarded the 2015 International Olympic Committee (IOC) Trophy=
+ for "Sport and Innovation"=2C beating out competition from Singapore Spor=
+ts School and Singapore Sports Institute.
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3D87ed645584&e=3D1951ef9e2f
+Wellness in office
+
+
+** Encouraging wellness at the office (http://sportsingapore.us5.list-mana=
+ge1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D0e695ffef8&e=3D=
+1951ef9e2f)
+------------------------------------------------------------
+
+The driving force behind a successful company is a happy and healthy workf=
+orce. Hence=2C it is important to incorporate wellness in the work environ=
+ment and encourage your employees or colleagues to inculcate habits that i=
+mprove their health.
+
+http://sportsingapore.us5.list-manage1.com/track/click?u=3Df4632c88c9f2443=
+25f0fa9152&id=3D6ae7f2891e&e=3D1951ef9e2f
+Rugby
+
+
+** Blitz into explosive March (http://sportsingapore.us5.list-manage1.com/=
+track/click?u=3Df4632c88c9f244325f0fa9152&id=3D42e2624f9e&e=3D=
+1951ef9e2f)
+------------------------------------------------------------
+
+Get into the spirit of the game for next month's Rugby Sevens with tag rug=
+by and rugby-themed movie screenings at the Sports Hub=2C and stand a chan=
+ce to win match tickets!
+
+http://sportsingapore.us5.list-manage1.com/track/click?u=3Df4632c88c9f2443=
+25f0fa9152&id=3D2cc9e8350d&e=3D1951ef9e2f
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3Dc06d90ca4e&e=3D1951ef9e2f
+
+
+** Video Wall
+------------------------------------------------------------
+Slingers in ABL
+
+
+** What you need to know about Slingers in the ABL Finals (http://sportsin=
+gapore.us5.list-manage2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=
+=3D313ec58ce1&e=3D1951ef9e2f)
+------------------------------------------------------------
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3Dbd50dde778&e=3D1951ef9e2f
+International Speed Skating
+
+
+** International Speed Skating returns to S'pore (http://sportsingapore.us=
+5.list-manage.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Da8e513437=
+7&e=3D1951ef9e2f)
+------------------------------------------------------------
+
+http://sportsingapore.us5.list-manage2.com/track/click?u=3Df4632c88c9f2443=
+25f0fa9152&id=3D8cf8bb7e35&e=3D1951ef9e2f
+ActiveSG Badminton Tournament
+
+
+** ActiveSG Badminton Tournament Highlights (http://sportsingapore.us5.lis=
+t-manage.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Df35fb52b5a&e=
+=3D1951ef9e2f)
+------------------------------------------------------------
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3Dc41bbb372b&e=3D1951ef9e2f
+Exercises for elderly
+
+
+** Seated exercises for the elderly (http://sportsingapore.us5.list-manage=
+=2Ecom/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dbbd9be3888&e=3D=
+1951ef9e2f)
+------------------------------------------------------------
+
+http://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f24432=
+5f0fa9152&id=3D9e10b593ae&e=3D1951ef9e2f
+
+=C2=A9 Copyright 2016 Sport Singapore All rights Reserved. Unsubscribe fro=
+m this newsletter (http://sportsingapore.us5.list-manage.com/unsubscribe?u=
+=3Df4632c88c9f244325f0fa9152&id=3D22c75d53a9&e=3D1951ef9e2f&c=3D2f7cbc46b5)
+--_----------=_MCPart_393122943
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=3D(0059)http://template.sscnewsletter.sg2lamp01.rroom.=
+net/consumer/ -->
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-sca=
+le=3D1.0">
+    <title>Sport Singapore Newsletter</title>
+    <style type=3D"text/css">
+        #outlook a
+        {
+            padding: 0;
+        }
+        /* Force Outlook to provide a "view in browser" menu link. */
+        body
+        {
+            width: 100% !important;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: Arial=2C sans-serif;
+        }
+
+        .ExternalClass
+        {
+            width: 100%;
+        }
+            /* Force Hotmail to display emails at full width */
+            .ExternalClass=2C .ExternalClass p=2C .ExternalClass span=2C .=
+ExternalClass font=2C
+
+=2EExternalClass td=2C .ExternalClass div
+            {
+                line-height: 100%;
+            }
+
+        #backgroundTable
+        {
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            line-height: 100% !important;
+            font-family: Arial=2C sans-serif;
+        }
+
+        img
+        {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+            display: block;
+        }
+
+        a img
+        {
+            border: none;
+        }
+
+        .image_fix
+        {
+            display: block;
+        }
+
+        p
+        {
+            margin: 1em 0;
+            line-height: 1.4;
+            font-size: 1.1em;
+        }
+
+
+        h1=2C h2=2C h3=2C h4=2C h5=2C h6
+        {
+            color: black !important;
+            line-height: 1.3;
+        }
+
+            h1 a=2C h2 a=2C h3 a=2C h4 a=2C h5 a=2C h6 a
+            {
+                color: #000;
+                text-decoration: none;
+            }
+
+
+                h1 a:active=2C h2 a:active=2C h3 a:active=2C h4 a:active=
+=2C h5 a:active=2C h6 a:active
+                {
+                    color: #000 !important;
+                    text-decoration: underline;
+                }
+
+                h1 a:visited=2C h2 a:visited=2C h3 a:visited=2C h4 a:visit=
+ed=2C h5 a:visited=2C h6
+
+a:visited
+                {
+                    color: purple !important;
+                }
+
+        table td
+        {
+            border-collapse: collapse;
+            padding: 0;
+            vertical-align: top;
+        }
+
+        table
+        {
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        a
+        {
+            color: #d9373a;
+        }
+
+            a:hover
+            {
+                text-decoration: underline;
+            }
+
+        h1
+        {
+            color: #fff !important;
+            margin: 0;
+            font-size: 2em;
+            font-weight: normal;
+        }
+
+        h2
+        {
+            margin: 15px 0 0px 0;
+        }
+
+        h3
+        {
+            font-weight: normal;
+            margin: 25px 0 10px 0;
+        }
+=09=09
+=09=09
+=09=09@media only screen and (max-width: 480px){
+        .emailImage{
+            height:auto !important;
+            max-width:600px !important;
+            width: 100% !important;
+        }
+    }
+    </style>
+
+</head>
+<body style=3D"-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;m=
+argin: 0;padding: 0;font-family: Arial=2C sans-serif;width: 100% !importan=
+t;">
+
+<div class=3D"aspNetHidden">
+
+</div>
+
+<div class=3D"aspNetHidden">
+
+=09
+</div><link href=3D"/webedit.css" rel=3D"stylesheet">
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"backgrou=
+ndTable" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;margin: 0;padding: 0;font-family: Arial=2C sans-serif;width:=
+ 100% !important;line-height: 100% !important;">
+        <tr>
+            <td valign=3D"top" align=3D"center" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wi=
+dth=3D"600" style=3D"margin: 20px;border-collapse: collapse;mso-table-lspa=
+ce: 0pt;mso-table-rspace: 0pt;">
+
+<tr>
+    <td style=3D"border-collapse: collapse;padding: 0;vertical-align: top;=
+">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+            <tr>
+                <td width=3D"188" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a href=3D"http://us5.forward-to-friend.com/forward?u=
+=3Df4632c88c9f244325f0fa9152&id=3D2f7cbc46b5&e=3D1951ef9e2f" style=3D"color:=
+ #d9373a;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;border: none;" class=3D"ema=
+ilImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/ima=
+ges/330c39c4-d1ca-457d-b2ab-1ac58aa8a9a5.png" alt=3D"" width=3D"188" heigh=
+t=3D"30">
+                    </a>
+                </td>
+                <td width=3D"233" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a href=3D"http://us5.campaign-archive2.com/?u=3Df4632=
+c88c9f244325f0fa9152&id=3D2f7cbc46b5&e=3D1951ef9e2f" style=3D"color: #d9373a=
+;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;border: none;" class=3D"ema=
+ilImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/ima=
+ges/732af21d-f2e3-4e85-b7a6-3b13e59fc4f8.png" alt=3D"" width=3D"233" heigh=
+t=3D"30">
+                    </a>
+                </td>
+                <td width=3D"33" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a style=3D"color: #d9373a;">
+
+                    </a>
+                </td>
+                <td width=3D"32" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a style=3D"color: #d9373a;">
+
+                    </a>
+                </td>
+                <td width=3D"33" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a href=3D"http://sportsingapore.us5.list-manage.com/t=
+rack/click?u=3Df4632c88c9f244325f0fa9152&id=3D67dd030486&e=3D1951ef9e2f"=
+ style=3D"color: #d9373a;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;border: none;" class=3D"ema=
+ilImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/ima=
+ges/c269175e-de77-48ea-962d-06ae67cc5b9e.png" alt=3D"" width=3D"33" height=
+=3D"30">
+                    </a>
+                </td>
+                <td width=3D"31" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a href=3D"http://sportsingapore.us5.list-manage1.com/=
+track/click?u=3Df4632c88c9f244325f0fa9152&id=3Db1c81398d5&e=3D1951ef9e2f"=
+ style=3D"color: #d9373a;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;border: none;" class=3D"ema=
+ilImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/ima=
+ges/b146ce36-9b73-4d20-a67d-2c8966b8af47.png" alt=3D"" width=3D"31" height=
+=3D"30">
+                    </a>
+                </td>
+                <td width=3D"50" valign=3D"top" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a href=3D"http://sportsingapore.us5.list-manage.com/t=
+rack/click?u=3Df4632c88c9f244325f0fa9152&id=3Da96d3c5db5&e=3D1951ef9e2f"=
+ style=3D"color: #d9373a;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;border: none;" class=3D"ema=
+ilImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/ima=
+ges/bb9bb2c7-3501-4da3-901f-235d79941dca.png" alt=3D"" width=3D"50" height=
+=3D"30">
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"b=
+order-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+            <tr>
+                <td width=3D"600" height=3D"153" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <a id=3D"newsletterplaceholder_0_logoLink" style=3D"co=
+lor: #d9373a;"><img style=3D"display: block;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;border: none;" class=3D"emailImage"=
+ src=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/c58=
+ac15e-b6b2-4bb3-8f87-32127321d833.jpg" alt=3D"The Play Times Mar 2016" wid=
+th=3D"600" height=3D"153"></a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"b=
+ackground-color: #45585c;color: #fff;border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;">
+            <tr>
+                <td width=3D"300" height=3D"53" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <h1 style=3D"margin: 10px 0 0 25px;line-height: 1.3;fo=
+nt-size: 2em;font-weight: normal;color: #fff !important;">
+                        The Play Times
+                    </h1>
+                </td>
+
+                <td width=3D"300" height=3D"53" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;">
+                    <p style=3D"margin: 8px 25px 3px 0;text-align: right;l=
+ine-height: 1.4;font-size: 1.1em;">
+                        Mar 2016
+                    </p>
+                    <p style=3D"margin: 0 25px 8px 0;text-align: right;fon=
+t-size: 0.8em;line-height: 1.4;">
+
+                        | ISSUE
+                        25
+                    </p>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+            <tr>
+                <td style=3D"border-collapse: collapse;padding: 0;vertical=
+-align: top;"><p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-size:=
+ 1.1em;"> Dear Readers=2C<br>
+                  <br>
+                  Greetings from Sport Singapore! </p>
+                  <p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-s=
+ize: 1.1em;">This month we have a special treat for families who love foot=
+ball and want their kids to pick up the sport. </p>
+                  <p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-s=
+ize: 1.1em;">ActiveSG launches its Football Academy on 2 April=2C under th=
+e guidance of former Singapore football legend Aleksandar Duric as academy=
+ principal. </p>
+                  <p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-s=
+ize: 1.1em;">Find out more and register your children to be part of this n=
+ot to be missed opportunity in football made fun for kids. </p>
+                  <p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-s=
+ize: 1.1em;">If football ain't your thing=2C fret not as you can gear up f=
+or next month's Rugby World Cup by getting into the spirit of the game wit=
+h Tag Rugby on 6=2C 13=2C 20=2C and 27 March with Sports Hub's 'Scrum it o=
+ut with Tag Rugby'! </p>
+                  <p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-s=
+ize: 1.1em;">All this and more in our latest issue of The Play Times. </p>
+                <p style=3D"margin: 25px 0 5px 0;line-height: 1.4;font-siz=
+e: 1.1em;">As always=2C happy reading! </p><br>
+                <hr>
+                </td>
+            </tr>
+        </table>
+
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" id=3D"ctl1" style=3D"border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;">
+            <tbody>
+                <tr>
+                    <td style=3D"border-collapse: collapse;padding: 0;vert=
+ical-align: top;">
+                        <h2 style=3D"border-left: 15px solid #0276bf;line-=
+height: 1;padding-left: 10px;margin: 15px 0 0px 0;color: black !important;=
+">
+                            Feature of the Month
+                        </h2>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+            <tbody>
+                <tr>
+                    <td width=3D"262" colspan=3D"2" id=3D"ctl6" style=3D"b=
+order-collapse: collapse;padding: 0;vertical-align: top;">
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D127a8034b3&e=3D=
+1951ef9e2f" style=3D"color: #000;text-decoration: none;"> <img style=3D"displ=
+ay: block;outline: none;text-decoration: none;-ms-interpolation-mode: bicu=
+bic;" class=3D"emailImage" src=3D"https://gallery.mailchimp.com/f4632c88c9=
+f244325f0fa9152/images/d0d4047b-3862-4d81-944d-25d7ac9235c0.jpg" alt=3D"Fo=
+otball Academy" width=3D"262" height=3D"156"></a>
+                        </p>
+                    </td>
+                    <td width=3D"28" id=3D"ctl7" style=3D"border-collapse:=
+ collapse;padding: 0;vertical-align: top;"></td>
+                    <td width=3D"262" colspan=3D"2" id=3D"ctl8" style=3D"b=
+order-collapse: collapse;padding: 0;vertical-align: top;">
+                        <h3 style=3D"line-height: 1.3;font-weight: normal;=
+margin: 25px 0 10px 0;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dde7387f886&e=3D=
+1951ef9e2f" style=3D"color: #000;text-decoration: none;">
+                            <strong>ACTIVESG FOOTBALL ACADEMY LAUNCH</stro=
+ng> </a>
+                        </h3>
+
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            Want to learn how to play football from local=
+ football legends? For just $5=2C kids from the ages of 6-12 can participa=
+te in a football clinic conducted by our two former national captains Alek=
+sandar Duric and Terry Pathmanathan=2C and will also be able to bring home=
+ with them a free event T-shirt and football!<br>
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D400ceb7770&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;max-wi=
+dth:84px;" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/i=
+mages/bd55c2f9-e672-44a6-a355-16d48c709c2a.png" alt=3D"More" width=3D"84"=
+ height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+
+                </tr>
+            </tbody>
+        </table>
+
+    </td>
+
+</tr>
+<tr>
+    <td height=3D"25" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;"></td>
+</tr>
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+            <tr>
+                <td width=3D"131" style=3D"border-collapse: collapse;paddi=
+ng: 0;vertical-align: top;">
+                    <img style=3D"display: block;outline: none;text-decora=
+tion: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=3D"h=
+ttp://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/2fdb506f-3512=
+-4171-9602-f028eeaff95e.jpg" alt=3D"" width=3D"131" height=3D"117">
+                </td>
+                <td width=3D"130" bgcolor=3D"#0e8ebd" style=3D"border-coll=
+apse: collapse;padding: 0;vertical-align: top;">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" align=3D"center" width=3D"110" style=3D"border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;">
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding: 20px 5px 5px;border-=
+collapse: collapse;vertical-align: top;">
+                                    <a href=3D"http://sportsingapore.us5.l=
+ist-manage.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D3c564422bf&e=
+=3D1951ef9e2f" style=3D"color: #ffffff; text-decoration: none; font-size:
+
+20px;">
+                                        ActiveSG Programmes
+                                    </a>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 5px 5px;border-colla=
+pse: collapse;vertical-align: top;">
+                                    <a href=3D"http://sportsingapore.us5.l=
+ist-manage2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3De548708def&=
+e=3D1951ef9e2f" style=3D"color: #ffffff; text-decoration: none; font-size=
+:
+
+16px;">
+
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 10px 5px;0: ;border-=
+collapse: collapse;vertical-align: top;">
+                                    <a href=3D"http://sportsingapore.us5.l=
+ist-manage1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D81c4571006&=
+e=3D1951ef9e2f" style=3D"color: #d9373a;">
+                                        <img style=3D"display: block;outli=
+ne: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: non=
+e;" class=3D"emailImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f24=
+4325f0fa9152/images/053689f3-fb5e-48cf-8c22-1d6577042860.jpg" alt=3D"more"=
+ width=3D"66" height=3D"24">
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td width=3D"28" style=3D"border-collapse: collapse;paddin=
+g: 0;vertical-align: top;"></td>
+                <td width=3D"131" style=3D"border-collapse: collapse;paddi=
+ng: 0;vertical-align: top;">
+                    <img style=3D"display: block;outline: none;text-decora=
+tion: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=3D"h=
+ttp://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/0d9723b9-4c34=
+-4af0-bee5-08571b676cc4.jpg" alt=3D"" width=3D"131" height=3D"117">
+                </td>
+                <td width=3D"130" bgcolor=3D"#c23923" style=3D"border-coll=
+apse: collapse;padding: 0;vertical-align: top;">
+                    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" align=3D"center" width=3D"110" style=3D"border-collapse: collapse;mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;">
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding: 20px 5px 5px;border-=
+collapse: collapse;vertical-align: top;">
+                                    <a href=3D"http://sportsingapore.us5.l=
+ist-manage1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dd38c33cd83&=
+e=3D1951ef9e2f" style=3D"color: #ffffff; text-decoration:
+
+none; font-size: 20px;">
+                                        Latest in Sports
+                                    </a>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 5px 5px;border-colla=
+pse: collapse;vertical-align: top;">
+                                    <a href=3D"http://sportsingapore.us5.l=
+ist-manage.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D0d4d94124b&e=
+=3D1951ef9e2f" style=3D"color: #ffffff; text-decoration:
+
+none; font-size: 16px;">
+
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 10px 5px;0: ;border-=
+collapse: collapse;vertical-align: top;">
+                                    <a href=3D"http://sportsingapore.us5.l=
+ist-manage1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D80ff682170&=
+e=3D1951ef9e2f" style=3D"color: #d9373a;">
+                                        <img style=3D"display: block;outli=
+ne: none;text-decoration: none;-ms-interpolation-mode: bicubic;border: non=
+e;" class=3D"emailImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f24=
+4325f0fa9152/images/2a145480-a9a1-4802-acf8-08cd6262451c.jpg" alt=3D"more"=
+ width=3D"66" height=3D"22">
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+
+            </tr>
+        </table>
+
+    </td>
+</tr>
+<tr>
+    <td width=3D"600" id=3D"ctl9" style=3D"border-collapse: collapse;paddi=
+ng: 0;vertical-align: top;">
+        <p style=3D"margin: 1em 0;line-height: 1.4;font-size: 1.1em;">
+           <a href=3D"http://sportsingapore.us5.list-manage.com/track/clic=
+k?u=3Df4632c88c9f244325f0fa9152&id=3D728031ace1&e=3D1951ef9e2f">
+                <img style=3D"display: block;outline: none;text-decoration=
+: none;-ms-interpolation-mode: bicubic;border: none;" class=3D"emailImage"=
+ src=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/9d5=
+abd1a-aebb-49fb-9cce-6411e085ffa7.jpg" alt=3D"" width=3D"600" height=3D"70=
+"></a>
+
+        </p>
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+            <tbody>
+                <tr>
+                    <td style=3D"border-collapse: collapse;padding: 0;vert=
+ical-align: top;">
+                        <h2 style=3D"border-left: 15px solid #c53625;line-=
+height: 1;padding-left: 10px;margin: 20px 0;color: black !important;">
+                            Monthly Highlights
+                        </h2>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+
+<tr>
+
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+
+            <tbody>
+                <tr>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/3853385=
+3-9bcc-4965-aada-b651e8f1b5f0.jpg" alt=3D"Chief of ActiveSG Lai Chin Kwang=
+" width=3D"262" height=3D"156">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <span style=3D"display:block;"><a href=3D"http=
+://sportsingapore.us5.list-manage.com/track/click?u=3Df4632c88c9f244325f0f=
+a9152&id=3Db19a50d44a&e=3D1951ef9e2f" style=3D"display: block;padding: 10=
+px;background: #c53625;color: #fff;text-decoration: none;">
+                               ActiveSG honoured by IOC<br><br>
+                          </a></span>
+                      </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                           ActiveSG was awarded the 2015 International Oly=
+mpic Committee (IOC) Trophy for "Sport and Innovation"=2C beating out comp=
+etition from Singapore Sports School and Singapore Sports Institute.
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D567af002b7&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" src=
+=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/bd55c2f9=
+-e672-44a6-a355-16d48c709c2a.png" alt=3D"more" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                  </td>
+                    <td width=3D"28" style=3D"border-collapse: collapse;pa=
+dding: 0;vertical-align: top;"></td>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/a45ca20=
+7-6d8a-406c-ab9e-8eb2a9d03c51.jpg" alt=3D"Wellness in office" width=3D"262=
+" height=3D"156">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dba5ae785af&e=3D=
+1951ef9e2f" style=3D"display: block;padding: 10px;background: #c53625;color:=
+ #fff;text-decoration: none;">
+                                Encouraging wellness at the office
+                            </a>
+                        </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">The driving force behind a successful company is a happy and h=
+ealthy workforce. Hence=2C it is important to incorporate wellness in the=
+ work environment and encourage your employees or colleagues to inculcate=
+ habits that improve their health.
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D197bda42b2&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" src=
+=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/bd55c2f9=
+-e672-44a6-a355-16d48c709c2a.png" alt=3D"more" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+            <tbody>
+                <tr>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;"><br>
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/5490dba=
+d-bb6e-445f-aed4-4293486db9a1.jpg" alt=3D"Rugby" width=3D"262" height=3D"1=
+56">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D8c66844e48&e=3D=
+1951ef9e2f" style=3D"color: #000;text-decoration: none;">
+                                Blitz into explosive March
+                            </a>
+                        </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            Get into the spirit of the game for next month=
+'s Rugby Sevens with tag rugby and rugby-themed movie screenings at the Sp=
+orts Hub=2C and stand a chance to win match tickets!
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D9d719e29b9&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                            <img style=3D"display: block;outline: none;tex=
+t-decoration: none;-ms-interpolation-mode: bicubic;border: none;" src=3D"h=
+ttp://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/bd55c2f9-e672=
+-44a6-a355-16d48c709c2a.png" alt=3D"more" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+                    <td width=3D"28" style=3D"border-collapse: collapse;pa=
+dding: 0;vertical-align: top;"></td>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <p style=3D"margin: 1em 0 0 0;text-align: center;b=
+ackground: #30acb5;line-height: 1.4;font-size: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dd7d310a8cc&e=3D=
+1951ef9e2f" style=3D"color: #fff; text-decoration:
+
+none; font-size: 0.9em;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" clas=
+s=3D"emailImage" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa=
+9152/images/ea0343d1-c10e-4c5e-b327-866794328bcc.png" alt=3D"" width=3D"26=
+2" height=3D"251">
+                                <br>
+                                <span style=3D"display: block; padding: 15=
+px;">
+
+                                </span>
+                            </a>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+<tr>
+    <td width=3D"600" id=3D"ctl9" style=3D"border-collapse: collapse;paddi=
+ng: 0;vertical-align: top;">
+
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <p style=3D"margin: 1em 0;line-height: 1.4;font-size: 1.1em;">
+
+
+        </p>
+    </td>
+</tr>
+
+<tr>
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+            <tbody>
+                <tr>
+                    <td style=3D"border-collapse: collapse;padding: 0;vert=
+ical-align: top;">
+                        <h2 style=3D"border-left: 15px solid #31b548;line-=
+height: 1;padding-left: 10px;margin: 20px 0;color: black !important;">
+                            Video Wall
+                        </h2>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+
+<tr>
+
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+
+            <tbody>
+                <tr>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/e767d18=
+1-3ca4-42c7-a3bf-32ef195581a9.png" alt=3D"Slingers in ABL" width=3D"262" h=
+eight=3D"156">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge2.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dd901f392bc&e=3D=
+1951ef9e2f" style=3D"display: block;padding: 10px;background: #31b548;color:=
+ #fff;text-decoration: none;">
+                                What you need to know about Slingers in th=
+e ABL Finals
+                            </a>
+                        </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Db163f01dc7&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" src=
+=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/bd55c2f9=
+-e672-44a6-a355-16d48c709c2a.png" alt=3D"more" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+                    <td width=3D"28" style=3D"border-collapse: collapse;pa=
+dding: 0;vertical-align: top;"></td>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/8313284=
+1-db46-4c8e-89ec-267c33905eed.png" alt=3D"International Speed Skating" wid=
+th=3D"262" height=3D"156">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Db223ee2c52&e=3D=
+1951ef9e2f" style=3D"display: block;padding: 10px;background: #31b548;color: #=
+fff;text-decoration: none;">
+                               International Speed Skating returns to S'po=
+re<br><br>
+                            </a>
+                        </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Da6881744e6&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" src=
+=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/bd55c2f9=
+-e672-44a6-a355-16d48c709c2a.png" alt=3D"more" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </td>
+</tr>
+<tr>
+
+    <td width=3D"600" style=3D"border-collapse: collapse;padding: 0;vertic=
+al-align: top;">
+
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"5=
+52" align=3D"center" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;">
+
+            <tbody>
+                <tr>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/f0731cb=
+2-82ed-42ed-8d90-358ac00704ce.png" alt=3D"ActiveSG Badminton Tournament" w=
+idth=3D"262" height=3D"156">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dd896c0b5b6&e=3D=
+1951ef9e2f" style=3D"display: block;padding: 10px;background: #31b548;color: #=
+fff;text-decoration: none;">
+                                ActiveSG Badminton Tournament Highlights
+                            </a>
+                        </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3Dbc1b3266f1&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" alt=
+=3D"more" src=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/im=
+ages/bd55c2f9-e672-44a6-a355-16d48c709c2a.png" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+                    <td width=3D"28" style=3D"border-collapse: collapse;pa=
+dding: 0;vertical-align: top;"></td>
+                    <td width=3D"262" style=3D"border-collapse: collapse;p=
+adding: 0;vertical-align: top;">
+                        <img style=3D"display: block;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" class=3D"emailImage" src=
+=3D"https://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/5701c2c=
+8-d4a7-4cf1-ba79-24fbd80b8de5.png" alt=3D"Exercises for elderly" width=3D"=
+262" height=3D"156">
+                        <h3 style=3D"margin: 25px 0 10px 0;line-height: 1.=
+3;font-weight: normal;color: black !important;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D993cf409f1&e=3D=
+1951ef9e2f" style=3D"display: block;padding: 10px;background: #31b548;color: #=
+fff;text-decoration: none;">
+                                Seated exercises for the elderly
+                            </a>
+                        </h3>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+
+                        </p>
+                        <p style=3D"margin: 1em 0;line-height: 1.4;font-si=
+ze: 1.1em;">
+                            <a href=3D"http://sportsingapore.us5.list-mana=
+ge1.com/track/click?u=3Df4632c88c9f244325f0fa9152&id=3D443e7520e6&e=3D=
+1951ef9e2f" style=3D"color: #d9373a;">
+                                <img style=3D"display: block;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;border: none;" src=
+=3D"http://gallery.mailchimp.com/f4632c88c9f244325f0fa9152/images/bd55c2f9=
+-e672-44a6-a355-16d48c709c2a.png" alt=3D"more" width=3D"84" height=3D"37">
+                            </a>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+
+
+    </td>
+
+</tr>
+<table style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;">
+
+
+</table>
+<table style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;">
+<tr>
+                        <p style=3D"margin: 20px 0;font-size: 12px;line-he=
+ight: 1.4;">
+                            &#169; Copyright 2016 Sport Singapore All righ=
+ts Reserved. <a href=3D"http://sportsingapore.us5.list-manage.com/unsubscr=
+ibe?u=3Df4632c88c9f244325f0fa9152&id=3D22c75d53a9&e=3D1951ef9e2f&c=3D2f7cbc4=
+6b5" style=3D"color:#666;">Unsubscribe from this newsletter</a>
+                        </p>
+                    </tr>
+</table>
+</table></td></tr></table><img src=3D"http://sportsingapore.us5.list-manag=
+e.com/track/open.php?u=3Df4632c88c9f244325f0fa9152&id=3D2f7cbc46b5&e=3D=
+1951ef9e2f" height=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_393122943--
